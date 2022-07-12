@@ -5,6 +5,75 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>295D0B60-1220-493C-B7B0-4AE648A974AF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>295D0B60-1220-493C-B7B0-4AE648A974AF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>678782541.60617495</real>
+			<key>timeStoppedRecording</key>
+			<real>678782542.31322098</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>295D0B60-1220-493C-B7B0-4AE648A974AF</string>
+		</dict>
+		<key>9E36767C-DADB-46B4-8D83-F75BD9A6262C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E36767C-DADB-46B4-8D83-F75BD9A6262C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679284041.12198496</real>
+			<key>timeStoppedRecording</key>
+			<real>679284041.32090294</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>9E36767C-DADB-46B4-8D83-F75BD9A6262C</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

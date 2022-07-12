@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "add14ede692742bd81b72cbcae2057f89fe34dd96f45d49876ec92c5f0ca0437"
+    }
+  ],
+  "containerPath" : "/Users/halome/Desktop/Swift/RandomPhoto/RandomPhoto.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/halome/Desktop/Swift/RandomPhoto/DerivedData/RandomPhoto/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/halome/Desktop/Swift/RandomPhoto/DerivedData/RandomPhoto/Index/Build/Products",
+      "derivedDataPath" : "/Users/halome/Desktop/Swift/RandomPhoto/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/halome/Desktop/Swift/RandomPhoto/DerivedData/RandomPhoto/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/halome/Desktop/Swift/RandomPhoto/DerivedData/RandomPhoto/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/halome/Desktop/Swift/RandomPhoto/DerivedData/RandomPhoto/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/halome/Desktop/Swift/RandomPhoto/DerivedData/RandomPhoto/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

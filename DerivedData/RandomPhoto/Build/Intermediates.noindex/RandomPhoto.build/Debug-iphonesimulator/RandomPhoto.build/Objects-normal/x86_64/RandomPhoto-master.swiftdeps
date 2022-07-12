@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1657089741, 746649980]
+build_end_time: [1657089742, 111896991]
+inputs:
+  "/Users/halome/Desktop/Swift/RandomPhoto/RandomPhoto/AppDelegate.swift": [1657081794, 688302278]
+  "/Users/halome/Desktop/Swift/RandomPhoto/RandomPhoto/SceneDelegate.swift": [1657081794, 691601753]
+  "/Users/halome/Desktop/Swift/RandomPhoto/RandomPhoto/ViewController.swift": [1657089741, 594372272]
