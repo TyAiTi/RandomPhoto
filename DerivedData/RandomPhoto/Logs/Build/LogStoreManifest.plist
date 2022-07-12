@@ -40,6 +40,176 @@
 			<key>uniqueIdentifier</key>
 			<string>295D0B60-1220-493C-B7B0-4AE648A974AF</string>
 		</dict>
+		<key>320C9675-5543-4FA7-8707-55AD9538D4D2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>320C9675-5543-4FA7-8707-55AD9538D4D2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679285928.08885002</real>
+			<key>timeStoppedRecording</key>
+			<real>679285928.97002697</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>320C9675-5543-4FA7-8707-55AD9538D4D2</string>
+		</dict>
+		<key>57FE2CD4-94A1-4225-B8CD-C6E75FE832F1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>57FE2CD4-94A1-4225-B8CD-C6E75FE832F1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286903.36155701</real>
+			<key>timeStoppedRecording</key>
+			<real>679286904.11934495</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>57FE2CD4-94A1-4225-B8CD-C6E75FE832F1</string>
+		</dict>
+		<key>6AB29BCB-CC9B-44D7-8779-9422FD9B44B4</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6AB29BCB-CC9B-44D7-8779-9422FD9B44B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286713.578228</real>
+			<key>timeStoppedRecording</key>
+			<real>679286714.32048094</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>6AB29BCB-CC9B-44D7-8779-9422FD9B44B4</string>
+		</dict>
+		<key>843FEEC6-4428-4DCD-A4FD-78FFB2F65180</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>843FEEC6-4428-4DCD-A4FD-78FFB2F65180.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286057.10233295</real>
+			<key>timeStoppedRecording</key>
+			<real>679286057.81249595</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>843FEEC6-4428-4DCD-A4FD-78FFB2F65180</string>
+		</dict>
+		<key>99344AE3-276B-4E21-BCA1-AFA76DE5EE1B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>99344AE3-276B-4E21-BCA1-AFA76DE5EE1B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679285941.41336</real>
+			<key>timeStoppedRecording</key>
+			<real>679285942.09101796</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>99344AE3-276B-4E21-BCA1-AFA76DE5EE1B</string>
+		</dict>
 		<key>9E36767C-DADB-46B4-8D83-F75BD9A6262C</key>
 		<dict>
 			<key>className</key>
@@ -73,6 +243,142 @@
 			<string>Build RandomPhoto</string>
 			<key>uniqueIdentifier</key>
 			<string>9E36767C-DADB-46B4-8D83-F75BD9A6262C</string>
+		</dict>
+		<key>A3FD1A5D-C076-43B6-8972-478772A1210D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A3FD1A5D-C076-43B6-8972-478772A1210D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679285852.68874896</real>
+			<key>timeStoppedRecording</key>
+			<real>679285855.89842701</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>A3FD1A5D-C076-43B6-8972-478772A1210D</string>
+		</dict>
+		<key>ABA0DDCB-301F-4BEE-BBBB-7D0EF2F71B1A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>ABA0DDCB-301F-4BEE-BBBB-7D0EF2F71B1A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286762.09851003</real>
+			<key>timeStoppedRecording</key>
+			<real>679286762.78925598</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>ABA0DDCB-301F-4BEE-BBBB-7D0EF2F71B1A</string>
+		</dict>
+		<key>C07CB966-78BD-4384-8D7F-A15B75E2EAEA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C07CB966-78BD-4384-8D7F-A15B75E2EAEA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286951.93485403</real>
+			<key>timeStoppedRecording</key>
+			<real>679286952.64844298</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>C07CB966-78BD-4384-8D7F-A15B75E2EAEA</string>
+		</dict>
+		<key>E3952433-3349-4CEE-A4BC-D7FD89068FD3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E3952433-3349-4CEE-A4BC-D7FD89068FD3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286739.044047</real>
+			<key>timeStoppedRecording</key>
+			<real>679286739.77014601</real>
+			<key>title</key>
+			<string>Build RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>E3952433-3349-4CEE-A4BC-D7FD89068FD3</string>
 		</dict>
 	</dict>
 </dict>

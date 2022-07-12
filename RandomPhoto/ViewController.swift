@@ -36,14 +36,28 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        view.backgroundColor = .systemPink
-        view.addSubview(imageView)
-        imageView.frame = CGRect(x: 0, y: 0, width: 300, height: 300)
-        imageView.center = view.center
+        view.backgroundColor = .systemYellow
+//        view.addSubview(imageView)
+//        imageView.frame = CGRect(x: 0, y: 0, width: 300, height: 300)
+//        imageView.center = view.center
+//
+//        view.addSubview(button)
+//        getRandomPhoto()
+//        button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
         
-        view.addSubview(button)
-        getRandomPhoto()
-        button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
+        //navigate
+        title = "Push & Pop"
+        let push = UIButton(frame: CGRect(x: 0, y: 0, width: 150, height: 50))
+        push.setTitle("Push Navigation", for: .normal)
+        push.setTitleColor(.red, for: .normal)
+        push.center = view.center
+        push.addTarget(self, action: #selector(clickPush), for: .touchUpInside)
+        view.addSubview(push)
+    }
+    @objc func clickPush(){
+        print("Push")
+        let secondVC = SecondViewController()
+        navigationController?.pushViewController(secondVC, animated: true)
     }
     
     @objc func didTapButton() {
@@ -69,3 +83,26 @@ class ViewController: UIViewController {
     }
 }
 
+
+class SecondViewController: UIViewController {
+    
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        view.backgroundColor = .systemPink
+        
+        let pop = UIButton(frame: CGRect(x: 0, y: 0, width: 150, height: 50))
+        pop.setTitle("Push Navigation", for: .normal)
+        pop.setTitleColor(.black, for: .normal)
+        pop.center = view.center
+        pop.addTarget(self, action: #selector(clickPop), for: .touchUpInside)
+        view.addSubview(pop)
+        
+    }
+    
+    @objc func clickPop(){
+        print("Pop")
+//        let firstView = ViewController()
+//        navigationController?.pushViewController(firstView , animated: true)
+        navigationController?.popViewController(animated: true)
+    }
+}

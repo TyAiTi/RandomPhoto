@@ -40,6 +40,346 @@
 			<key>uniqueIdentifier</key>
 			<string>19A0C515-CC54-403F-9D7E-5E3FDC0495D9</string>
 		</dict>
+		<key>2D7F4650-4EB3-4334-8FF9-FC12A2D79195</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2D7F4650-4EB3-4334-8FF9-FC12A2D79195.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679285942.09283495</real>
+			<key>timeStoppedRecording</key>
+			<real>679286057.3204</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>2D7F4650-4EB3-4334-8FF9-FC12A2D79195</string>
+		</dict>
+		<key>3E63D20D-24FB-4A2E-B8B3-9A64A0A67954</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3E63D20D-24FB-4A2E-B8B3-9A64A0A67954.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286952.65068102</real>
+			<key>timeStoppedRecording</key>
+			<real>679286996.81031299</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>3E63D20D-24FB-4A2E-B8B3-9A64A0A67954</string>
+		</dict>
+		<key>80590ABB-9888-41BF-90B4-46D378FCFA82</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>80590ABB-9888-41BF-90B4-46D378FCFA82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286714.32287502</real>
+			<key>timeStoppedRecording</key>
+			<real>679286739.28947699</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>80590ABB-9888-41BF-90B4-46D378FCFA82</string>
+		</dict>
+		<key>9754EF0F-B466-4B47-9FD4-0F2A9DE120FC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9754EF0F-B466-4B47-9FD4-0F2A9DE120FC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286904.12175095</real>
+			<key>timeStoppedRecording</key>
+			<real>679286952.18037903</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>9754EF0F-B466-4B47-9FD4-0F2A9DE120FC</string>
+		</dict>
+		<key>9ECA6901-608A-476D-9DA7-153634A75F07</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9ECA6901-608A-476D-9DA7-153634A75F07.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679285855.90070403</real>
+			<key>timeStoppedRecording</key>
+			<real>679285928.307055</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>9ECA6901-608A-476D-9DA7-153634A75F07</string>
+		</dict>
+		<key>AA813228-3D76-4B8E-8976-A1E5D9E71937</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AA813228-3D76-4B8E-8976-A1E5D9E71937.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679284041.38521302</real>
+			<key>timeStoppedRecording</key>
+			<real>679285852.86571503</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>AA813228-3D76-4B8E-8976-A1E5D9E71937</string>
+		</dict>
+		<key>D00CA84F-DB71-40A1-AA85-F99F64B1A031</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D00CA84F-DB71-40A1-AA85-F99F64B1A031.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286762.79108906</real>
+			<key>timeStoppedRecording</key>
+			<real>679286903.60669601</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>D00CA84F-DB71-40A1-AA85-F99F64B1A031</string>
+		</dict>
+		<key>DA168C4D-BD5E-4918-B563-66853BFBA3EC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DA168C4D-BD5E-4918-B563-66853BFBA3EC.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679285928.97193503</real>
+			<key>timeStoppedRecording</key>
+			<real>679285941.67430103</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>DA168C4D-BD5E-4918-B563-66853BFBA3EC</string>
+		</dict>
+		<key>EF8CEFD4-CCD5-43AC-B363-3FBB2A3A0E64</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>EF8CEFD4-CCD5-43AC-B363-3FBB2A3A0E64.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286739.77234805</real>
+			<key>timeStoppedRecording</key>
+			<real>679286762.344028</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>EF8CEFD4-CCD5-43AC-B363-3FBB2A3A0E64</string>
+		</dict>
+		<key>FD723151-E4CC-40E3-A78E-ADAFDE1954B4</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>FD723151-E4CC-40E3-A78E-ADAFDE1954B4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>RandomPhoto project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>RandomPhoto</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run RandomPhoto</string>
+			<key>timeStartedRecording</key>
+			<real>679286057.81491196</real>
+			<key>timeStoppedRecording</key>
+			<real>679286713.82385302</real>
+			<key>title</key>
+			<string>Run RandomPhoto</string>
+			<key>uniqueIdentifier</key>
+			<string>FD723151-E4CC-40E3-A78E-ADAFDE1954B4</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

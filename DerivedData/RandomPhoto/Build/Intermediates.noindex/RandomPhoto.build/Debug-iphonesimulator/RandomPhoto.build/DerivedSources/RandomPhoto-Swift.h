@@ -246,9 +246,19 @@ SWIFT_CLASS("_TtC11RandomPhoto13SceneDelegate")
 @class NSBundle;
 @class NSCoder;
 
+SWIFT_CLASS("_TtC11RandomPhoto20SecondViewController")
+@interface SecondViewController : UIViewController
+- (void)viewDidLoad;
+- (void)clickPop;
+- (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
 SWIFT_CLASS("_TtC11RandomPhoto14ViewController")
 @interface ViewController : UIViewController
 - (void)viewDidLoad;
+- (void)clickPush;
 - (void)didTapButton;
 - (void)viewDidLayoutSubviews;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
