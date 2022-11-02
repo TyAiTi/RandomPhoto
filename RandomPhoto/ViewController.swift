@@ -47,7 +47,6 @@ class ViewController: UIViewController {
         getRandomPhoto()
         button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
         btnHalomeSDK.addTarget(self, action: #selector(moveHalomeSDK), for: .touchUpInside)
-        print("okloko")
     }
 
     @objc func moveHalomeSDK() {
