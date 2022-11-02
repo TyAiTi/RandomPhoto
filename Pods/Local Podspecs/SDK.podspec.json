@@ -1,0 +1,19 @@
+{
+  "name": "SDK",
+  "version": "1.0.0",
+  "summary": "Halome iOS SDK",
+  "description": "Halome iOS SDK",
+  "homepage": "https://github.com/halonext/msgr-client-react-native",
+  "license": "Apache 2",
+  "authors": "Halome project authors",
+  "source": {
+    "git": "https://github.com/halonext/msgr-client-react-native.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "swift_versions": "5",
+  "vendored_frameworks": "Frameworks/SDK.xcframework",
+  "swift_version": "5"
+}
