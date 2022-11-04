@@ -47,17 +47,32 @@ class ViewController: UIViewController {
         getRandomPhoto()
         button.addTarget(self, action: #selector(didTapButton), for: .touchUpInside)
         btnHalomeSDK.addTarget(self, action: #selector(moveHalomeSDK), for: .touchUpInside)
+        
+        NotificationCenter.default.addObserver(self,
+                                               selector: #selector(topView),
+                                               name: NSNotification.Name(rawValue: "goBackToPrevious"),
+                                               object: nil)
+    
     }
 
+    
+    
     @objc func moveHalomeSDK() {
         let callViewHalomeSDK = moveFlow()
-        callViewHalomeSDK.startReact(RNScreen().Halome, withData: "111333")
+        callViewHalomeSDK.startReact(RNScreen().Halome, withData: "654321")
     }
+    
+    
+    
     
     @objc func didTapButton() {
         let callViewHalomeSDK = moveFlow()
-        callViewHalomeSDK.startReact("Halome", withData: "some Data")
+//        callViewHalomeSDK.startReact("Halome", withData: "456789")
+        
+        callViewHalomeSDK.startReact("App", withData: "456789")
     }
+    
+    
     
     override func viewDidLayoutSubviews() {
         super.viewDidLayoutSubviews()
@@ -79,5 +94,9 @@ class ViewController: UIViewController {
         }
         imageView.image = UIImage(data: data)
     }
+    
+    @objc func topView() {
+           print("Thuc hien di chuyen man hinh")
+        }
 }
 
