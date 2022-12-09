@@ -15,13 +15,5 @@
   },
   "swift_versions": "5",
   "vendored_frameworks": "Frameworks/SDK.xcframework",
-  "dependencies": {
-    "React-Core": [
-
-    ],
-    "React-Codegen": [
-
-    ]
-  },
   "swift_version": "5"
 }

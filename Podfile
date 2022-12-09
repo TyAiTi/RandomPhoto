@@ -11,7 +11,8 @@ target 'RandomPhoto' do
 end
 
 
-pod 'SDK', :path => '/Users/phamphilong/Desktop/githubTy/Halome-SDK-Andoird/releases/ios/1.0.0'
+#pod 'SDK', :path => '/Users/phamphilong/Desktop/githubTy/Halome-SDK-Andoird/releases/ios/1.0.0'
+pod 'SDK', :path => '/Users/phamphilong/Desktop/msgr-client-react-native-demo-build-sdk-reactnative/releases/ios/1.0.0'
 
 
 post_install do |installer|
